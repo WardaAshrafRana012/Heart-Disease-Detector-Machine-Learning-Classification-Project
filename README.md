@@ -1,5 +1,3 @@
-# Heart-Disease-Detector-Machine-Learning-Classification-Project
-Heart disease prediction system using Logistic Regression and Random Forest classifiers, featuring feature selection, model comparison, and performance evaluation using accuracy, precision, recall, and specificity.
 # 🩺 Heart Disease Detector: Comparative Analysis & ML Modeling
 **Project By: Warda Ashraf Rana , Ammaar Mustaq , Shahzaib Khan**
 
